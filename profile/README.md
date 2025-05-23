@@ -21,5 +21,5 @@ Conecte comunidades. Expanda fronteiras. Crie amizades. ✨
 
 - 🌍 **Chat Global:** canais sincronizados entre servidores
 - 💬 Suporte a **múltiplos chats globais**
-- 🔒 Sistema de **filtro automático** (palavrões, links, flood)
+- 🔒 Sistema de **automoderação automática**
 - 🚫 Sistema de **banimento global**
